@@ -14,19 +14,34 @@ Celebrating Sales: As sales pour in, sellers can enjoy the thrill of receiving n
 
 Tech Stack
 React Framework: BirdBox is built on the solid foundation of the React framework, ensuring a smooth and interactive user experience.
+
 NextJS: Powering the platform with NextJS guarantees high performance and scalability for a growing user base.
+
 Tailwind CSS: The CSS framework of choice, Tailwind CSS, adds style and elegance to the platform's interface.
+
 Daisy UI: Leveraging Daisy UI as the component kit streamlines the development process and enhances consistency in design.
+
 Deployment on Vercel: BirdBox is efficiently deployed and hosted on Vercel, ensuring reliability and seamless updates.
+
 File Storage with Supabase: For web2 file storage, Supabase is utilized, providing a secure and efficient solution.
+
 Seamless Authentication with SIWE: Sign In With Ethereum (SIWE) allows users to easily authenticate using their Ethereum wallet, enhancing security and convenience.
+
 next-auth Integration: next-auth further bolsters the authentication process, adding an extra layer of robustness.
+
 Smooth Smart Contract Interaction Client Side: Wagmi enables effortless client-side interaction with smart contracts, streamlining various operations.
+
 Server-Side Smart Contract Interaction: Ethers.js empowers seamless server-side interaction with smart contracts, ensuring smooth performance.
+
 Wallet Connection through Rainbowkit: Users can easily connect their wallets through Rainbowkit, simplifying payment processes.
+
 Smart Contract Development Framework: Utilizing Hardhat ensures efficient and effective development and testing of smart contracts.
+
 EIP 1155 NFT Standard: BirdBox adopts the EIP 1155 NFT standard, allowing for flexible and scalable non-fungible token implementations.
+
 Powered by Gnosis Mantle: Leveraging the Gnosis Mantle blockchain ensures the platform's robustness and reliability.
+
+
 Getting Started
 To run BirdBox locally, follow these steps:
 
