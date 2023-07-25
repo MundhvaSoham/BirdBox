@@ -1,0 +1,7 @@
+/* create.module.css */
+
+.background-image-container {
+  background-image: url('../public/bg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
